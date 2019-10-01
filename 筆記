@@ -1,0 +1,41 @@
+Ch 1.
+人工智慧
+ML =多人為的extraction 在進行learning
+
+DL= 盡量免除人為的feature and extraction 
+
+
+supervise
+has labeled
+
+unsupervise
+no feature label, all auto set
+
+reinforcment 
+give rewards if do the correct forecast
+have R(reward) S(env state) A(next step action) in the module
+
+CH2
+NN
+CNN
+mostly use on image identify
+RNN
+add temporal sequence(Time) before output may effect after input's forecast
+
+have some algorithm is doing exploration
+like GE(經驗演算法) 、、、
+
+intelligent agent
+one agent need measure as below
+(PEAS)
+1. Performance measure
+2. Environment
+3. Actuators (執行器)
+4. Sensors
+
+CH3
+break first search(BFS)= done the first level then do dep (廣度優先)
+
+depth first search(DFS) = done the first dept then do the frontier level(深度優先)
+
+改良版>>Depth Limited Search (DLS) >>先給深度限制(Limit) 
