@@ -39,3 +39,6 @@ break first search(BFS)= done the first level then do dep (廣度優先)
 depth first search(DFS) = done the first dept then do the frontier level(深度優先)
 
 改良版>>Depth Limited Search (DLS) >>先給深度限制(Limit) 
+
+
++++
