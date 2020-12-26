@@ -1,2 +1,2 @@
-# Ian
+# DeepLearning Course
 lab
